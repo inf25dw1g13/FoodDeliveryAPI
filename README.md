@@ -1,17 +1,16 @@
 ## Food Delivery API
 
-Repositório para hospedar o projeto desenvolvido para Desenvolvimento Web I, uma disciplina de segundo ano, no curso de Informática, na Univerdade da Maia. Desenvolvimento pelo grupo: Felipe Castilho ([@a047152](https://github.com/a047152)), Juliana Moreira ([@julianaam13](https://github.com/julianaam13)) e Marta Vieira ([@xmarta19](http://github.com/xmarta19)).
+Repositório para hospedar o projeto desenvolvido para Desenvolvimento Web I, uma disciplina de segundo ano, no curso de Informática, na Univerdade da Maia. Desenvolvido pelo grupo: Felipe Castilho ([@a047152](https://github.com/a047152)), Juliana Moreira ([@julianaam13](https://github.com/julianaam13)) e Marta Vieira ([@xmarta19](http://github.com/xmarta19)).
 
-## Short theme description
+## Descrição curta do projeto
 
-An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
+O projeto tem como objetivo simular o funcionamento de um sistema de entregas de comida. Este foi desenvolvido através da utilização de uma aplicação, api, e uma base de dados (3, e em MariaDB, neste caso).
 
-## Repository organization
+## Organização do Projeto
 
-_Please help reader navigate around describing how the repository is organized by providing links_
-* **Source code** is in the [src folder](src/).
-* Report chapters are in [doc folder](doc/).
-* Initial [OpenApi document](api/openapi.yaml)
+* **Código Source** está em [src folder](src/).
+* **Capítulos do Trabalho** estão em [doc folder](doc/).
+* **O Documento da API** está em [OpenApi document](api/openapi.yaml)
 
 ## Gallery
 
@@ -20,37 +19,30 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
-* [XML](https://www.w3.org/XML/)
-* [HTML5](https://html.spec.whatwg.org/multipage/) + [CSS3](https://www.w3.org/Style/CSS/)
+Estas são as tecnologias utilizadas neste projeto:
 * [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-* [PHP](https://www.php.net/)
+* [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+* [MariaDB](https://mariadb.org/)
 * [nodeJS](https://nodejs.org/en/)
-* _Any other?_
 
-### Frameworks and Libraries
+### *Frameworks and Libraries*
 
-_Did you use any aditional libraries? Describe them here._
+Estas são as *libraries* utilizadas no trabalho:
 * Docker
-* Multipass
 * NodeJS
-* JQuery
-* Laravel
-* Bootstrap
-* ReactJS
 
-## Report
-_Please add at least on section (a file) per Chapter. But you can add more._
+## *Report*
 
-### Project presentation
+### Apresentação do Projeto
 * Chapter 1: [Project presentation](doc/c1.md)
-### Resources
+### Recursos
 * Chapter 2: [Resources](doc/c2.md)
-### Product
+### Produto
 * Chapter 3: [Product](doc/c3.md)
-### Presentation
+### Apresentação
 * Chapter 4: [Presentation](doc/c4.md)
 
-## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+## Grupo
+* Felipe Castilho ([@a047152](https://github.com/a047152))
+* Juliana Moreira ([@julianaam13](https://github.com/julianaam13))
+* Marta Vieira ([@xmarta19](http://github.com/xmarta19))
