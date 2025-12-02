@@ -1,4 +1,4 @@
-## Food Delivery *API*
+## Food Delivery API
 
 Repositório usado para hospedar um projeto desenvolvido para Desenvolvimento Web I e Complementos de Base de Dados, no curso de Informática, na Univerdade da Maia.  
 Desenvolvido pelo grupo 13 - inf25dw1g13
