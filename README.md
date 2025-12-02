@@ -11,6 +11,7 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 * **Código Source** está em [src](src/).
 * **Capítulos do Trabalho** estão em [doc](doc/).
 * **O Documento da API** está em [OpenApi](api/openapi.yaml)
+* **O Repositório** do Docker está em [Docker](https://hub.docker.com/repositories/inf25dw1g13)
 
 ## Gallery
 
