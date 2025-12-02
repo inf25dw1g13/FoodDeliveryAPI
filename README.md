@@ -10,7 +10,7 @@ Desenvolvido pelo grupo 13 - inf25dw1g13
 
 Este trabalho tem como objetivo desenvolver uma *API REST* que simula o funcionamento de uma plataforma de entregas de comida. A *API* implementa operações *CRUD* (*Create*, *Read*, *Update*, *Delete*) através dos métodos *HTTP POST*, *GET*, *PUT* e *DELETE*, permitindo a gestão completa dos recursos do sistema.
 
-O projeto foi desenvolvido seguindo uma abordagem ***Design-first***, onde a *API* foi primeiro especificada através do formato *OpenAPI* 3.0 antes da implementação do código. Esta abordagem permite uma melhor definição dos contratos da *API*, facilita a comunicação entre *frontend* e *backend*, e garante a validação automática de requisições e respostas.
+O projeto foi desenvolvido seguindo uma abordagem ***Design-first***, onde a *API* foi primeiro especificada através do formato *OpenAPI* 3.0 antes da implementação do código.
 
 A *API* interage com uma base de dados *MariaDB* para estrutura e armazenamento de dados relacionados às entregas. O sistema inclui as seguintes entidades principais:
 - **Restaurantes**: Gestão de restaurantes parceiros
