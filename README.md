@@ -8,9 +8,9 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 
 ## Organização do Projeto
 
-* **Código Source** está em [src folder](src/).
-* **Capítulos do Trabalho** estão em [doc folder](doc/).
-* **O Documento da API** está em [OpenApi document](api/openapi.yaml)
+* **Código Source** está em [src](src/).
+* **Capítulos do Trabalho** estão em [doc](doc/).
+* **O Documento da API** está em [OpenApi](api/openapi.yaml)
 
 ## Gallery
 
