@@ -105,8 +105,6 @@ O sistema implementa uma arquitetura de replicação de base de dados utilizando
 ### Apresentação
 * Chapter 4: [Apresentação](doc/c4.md)
 
-## Grupo
-
 ## Grupo inf25dw1g13
 * [Felipe Castilho](https://github.com/a047152) - a047152@umaia.pt
 * [Juliana Moreira](https://github.com/julianaam13) - a047188@umaia.pt
