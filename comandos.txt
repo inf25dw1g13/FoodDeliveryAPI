@@ -1,0 +1,51 @@
+# ============================================
+# DOCKER ACCOUNT LOGIN
+# ============================================
+# Username:inf25dw1g13
+# Email:a046756@umaia.pt
+# Password:devweb123
+
+#============================================
+# DOCKER COMPOSE - Food Delivery API - prod
+# ============================================
+# Para rodar:
+#   docker compose -f docker-compose.prod.yaml up
+# Para parar:
+#   docker compose -f docker-compose.prod.yaml down -v
+#   docker compose -f docker-compose.prod.yaml down
+
+# ============================================
+# DOCKER COMPOSE - Food Delivery API - dev
+# ============================================
+# Para rodar:
+#   Primeira vez: docker compose -f docker-compose.dev.yaml up --build
+#   Próximas vezes: docker compose -f docker-compose.dev.yaml up
+# Para parar:
+#   docker compose -f docker-compose.dev.yaml down -v 
+#   docker compose -f docker-compose.dev.yaml down 
+
+# ============================================
+# BUILD E PUSH DAS IMAGENS
+# ============================================
+#
+# 1. API:
+#    cd food/src/express-server
+#    docker build -t inf25dw1g13/food-delivery-api:latest .
+#    docker push inf25dw1g13/food-delivery-api:latest
+#
+# 2. MariaDB Master:
+#    cd food/src/mariadb-master
+#    docker build -t inf25dw1g13/food-delivery-mariadb-master:latest .
+#    docker push inf25dw1g13/food-delivery-mariadb-master:latest
+#
+# 3. MariaDB Réplicas:
+#    cd food/src/mariadb-replica
+#    docker build -t inf25dw1g13/food-delivery-mariadb-replica:latest .
+#    docker push inf25dw1g13/food-delivery-mariadb-replica:latest
+#
+# 4. MaxScale:
+#    cd food/src/maxscale
+#    docker build -t inf25dw1g13/food-delivery-maxscale:latest .
+#    docker push inf25dw1g13/food-delivery-maxscale:latest
+#
+# ============================================
