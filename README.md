@@ -18,6 +18,11 @@ O projeto tem como objetivo simular o funcionamento de um sistema de entregas de
 _Please provide a galery of the final result, with small images_
 A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull to organize the images.
 
+| Cat Pic | Dog Pic |
+| ------------------------ | ------------------------ |
+| ![cat](images/image01.png) | ![dog](images/image02.png) |
+| ![cat2](images/cat2.png) | ![dog2](images/dog2.png) |
+
 ## Technologies
 
 Estas são as tecnologias utilizadas neste projeto:
